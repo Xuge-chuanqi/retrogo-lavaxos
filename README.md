@@ -1,7 +1,7 @@
 # retrogo-lavaxos
-lavaxos移植为retrogo核心
+将lavaxos移植为retrogo核心
 
-lavaxos是由lee开源的，我这部分lava的源码来自于lee的项目。
+lavaxos是由lee开源的，我这部分lava的源码参考于lee的项目。
 项目地址：https://gitee.com/jacklee72/lavaxos
 
 说明：
