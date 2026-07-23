@@ -14,6 +14,6 @@ lavaxos是由lee开源的，我这部分lava的源码参考于lee的项目。
 
 sd/lavaXOS
 
-资源我这里就不放了，大家有兴趣的，自己应该可以找到。
+资源我放在release里面了，大家自己下载。
 
 <img width="1280" height="1707" alt="b3cfd9599040e400fd37d9aab14d8d88_720" src="https://github.com/user-attachments/assets/7cb87390-d410-40ff-b513-00bfac039cfa" />
